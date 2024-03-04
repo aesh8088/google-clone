@@ -1,0 +1,30 @@
+.menu{
+    display: flex;
+}
+
+.place:hover{
+    border: 2px solid gray;
+   
+}
+
+#but1:hover{
+    border: 1px solid gray;
+}
+
+#but2:hover{
+    border: 1px solid gray;
+}
+
+.foot1 p{
+    margin-top: 3%;
+    padding: 3%;
+    color: black;
+   font-size: 20px;
+    
+}
+footer{
+    padding-bottom: 0;
+}
+
+
+
